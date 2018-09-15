@@ -1,1 +1,2 @@
 # Shipcraft
+# For windows
